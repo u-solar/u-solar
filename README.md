@@ -1,3 +1,4 @@
+```text
 UROŠ ŠOLAR
 ──────────
 
@@ -13,6 +14,7 @@ Users ∩ Business
 
 CONTACT        linkedin.com/in/uros-solar
 
+```text
 
 <!---
 u-solar/u-solar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
